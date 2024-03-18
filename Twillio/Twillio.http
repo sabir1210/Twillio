@@ -1,0 +1,6 @@
+@Twillio_HostAddress = http://localhost:5100
+
+GET {{Twillio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
